@@ -1,0 +1,12 @@
+pandas-ta #pandas for technical analysis
+numpy
+ccxt #interface with exchanges
+datetime
+backtrader #backtesting
+requests
+yfinance
+Backtesting
+scikit-learn
+matplotlib
+websockets
+termcolor
